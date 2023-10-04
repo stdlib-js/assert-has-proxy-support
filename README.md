@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasProxySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-proxy-support@deno/mod.js';
+import hasProxySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-proxy-support@v0.1.1-deno/mod.js';
 ```
 
 #### hasProxySupport()
@@ -75,7 +75,7 @@ var bool = hasProxySupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasProxySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-proxy-support@deno/mod.js';
+import hasProxySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-proxy-support@v0.1.1-deno/mod.js';
 
 var bool = hasProxySupport();
 if ( bool ) {
